@@ -3,16 +3,23 @@
   "version": "0.0.0",
   "description": "Move an array element to a given position.",
   "license": "MIT",
-  "main": "index.js",
-  "scripts": {
-    "test": "tape test/**/*.js | tap-spec",
-    "posttest": "standard ./index.js ./test/**/*.js"
-  },
   "keywords": [
     "array",
     "move",
     "element"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttmarek/move-element.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ttmarek/move-element/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js | tap-spec",
+    "posttest": "standard ./index.js ./test/**/*.js"
+  },
   "devDependencies": {
     "standard": "6.0.7",
     "tap-spec": "4.1.1",
