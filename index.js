@@ -3,10 +3,11 @@
 module.exports = moveElement
 
 /**
- *
- * @param {Array} arr
- * @param {Function} isElement
- * @param {Integer} index
+ * Returns a new array with a given element moved to a certain index.
+ * @param {Array} arr An array of elements that you want to rearrange.
+ * @param {Function} isElement A function that returns true when passed
+ * the element you want to move.
+ * @param {Integer} index The index you want to move the element to.
  */
 function moveElement(arr, isElement, index) {
   var maxIndex = arr.length - 1
