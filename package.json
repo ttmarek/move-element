@@ -4,7 +4,9 @@
   "description": "Move an array element to a given position.",
   "license": "MIT",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "tape test/**/*.js | tap-spec"
+  },
   "keywords": [
     "array",
     "move",
