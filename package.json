@@ -1,0 +1,14 @@
+{
+  "name": "move-element",
+  "version": "0.0.0",
+  "description": "Move an array element to a given position.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "array",
+    "move",
+    "element"
+  ]
+}
