@@ -9,7 +9,7 @@ module.exports = moveElement
  * the element you want to move.
  * @param {Integer} index The index you want to move the element to.
  */
-function moveElement(arr, isElement, index) {
+function moveElement (arr, isElement, index) {
   var maxIndex = arr.length - 1
   // Return the original array if the given index isn't valid
   if (index > maxIndex || index < 0) {

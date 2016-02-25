@@ -5,7 +5,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/**/*.js | tap-spec"
+    "test": "tape test/**/*.js | tap-spec",
+    "posttest": "standard ./index.js ./test/**/*.js"
   },
   "keywords": [
     "array",
@@ -13,6 +14,7 @@
     "element"
   ],
   "devDependencies": {
+    "standard": "6.0.7",
     "tap-spec": "4.1.1",
     "tape": "4.4.0"
   }
