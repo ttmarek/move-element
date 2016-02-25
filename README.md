@@ -12,7 +12,7 @@
 ## Usage ##
 
 ``` javascript
-    // const moveElement = require('move-element')
+    const moveElement = require('move-element')
     // Say you have an array of fruits
     const fruits = ['Oranges', 'Apples', 'Bananas', 'Pineapples']
     // And you want to swap the positions of 'Apples' and 'Bananas'
