@@ -1,5 +1,5 @@
 # move-element #
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![npm version](https://badge.fury.io/js/move-element.svg)](https://badge.fury.io/js/move-element)
 
 > Move an array element to a given position.
 
