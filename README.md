@@ -1,5 +1,7 @@
 # move-element #
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![npm version](https://badge.fury.io/js/move-element.svg)](https://badge.fury.io/js/move-element)
+[![npm version](https://badge.fury.io/js/move-element.svg)](https://badge.fury.io/js/move-element)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 > Move an array element to a given position.
 
@@ -23,6 +25,3 @@
     // Then newArray will be set to:
     // ['Oranges', 'Bananas', 'Apples', 'Pineapples']
 ```
-
-## License ##
-MIT © Thomas Marek
